@@ -52,11 +52,11 @@ sentence 数：
 |PMID|int||
 |PREDICATE|int||
 |SUBJECT_CUI|str||
-|SUBJECT_NAME|str||
+|SUBJECT_NAME|str|そのままの名前ではなく、マッピングしたもの|
 |SUBJECT_SEMTYPE|str||
 |SUBJECT_NOVELTY|int||
 |OBJECT_CUI|str||
-|OBJECT_NAME|str||
+|OBJECT_NAME|str|そのままの名前ではなく、マッピングしたもの|
 |OBJECT_SEMTYPE|str||
 |OBJECT_NOVELTY|int||
 
