@@ -9,7 +9,7 @@
 ### 処理したデータ
 
 [SemMedDB についてのサイト](https://lhncbc.nlm.nih.gov/ii/tools/SemRep_SemMedDB_SKR/SemMedDB_download.html) からダウンロードしました。  
-形式は csv ファイルを .gz 形式で圧縮したものです。
+バージョンは 43 で、形式は csv ファイルを .gz 形式で圧縮したものです。
 
 今回処理したテーブルは以下です：
 
