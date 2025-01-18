@@ -109,10 +109,14 @@ SECTION_HEADER と NORMALIZED_SECTION_HEADER は欠損値だったので不使�
 
 ### 主なスクリプト
 
-* 241227_process_semmed.ipynb
-    * ダウンロードしたデータの解凍、分割
-    * 必要な列のみ DB に変換
-    * 対応する sentence と predication を結合
+* 241227_prepare_semmed.ipynb
+    * データベースを作るための準備
+    * ダウンロードしたデータの解凍、分割、DB 化、index 作成
+* 250108_process_semmed_norm.ipynb
+    * sent_id、pred_id をもとにデータベース化
+    * テーブルの内容は上記のとおり
+* 250108_watch.ipynb
+    * データの中身の確認など
 
 ## 関連資料
 
