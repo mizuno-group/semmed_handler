@@ -117,6 +117,8 @@ SECTION_HEADER と NORMALIZED_SECTION_HEADER は欠損値だったので不使�
     * テーブルの内容は上記のとおり
 * 250108_watch.ipynb
     * データの中身の確認など
+* 250117_ext_cells.ipynb
+    * 上記のデータベースから条件を満たすものについての情報を、テーブルの形式を崩さずにすべて取って来る
 
 ## 関連資料
 
