@@ -1,5 +1,9 @@
 # SemMed handler
 
+## Note
+This repository is under construction and will be officially released by [Mizuno group](https://github.com/mizuno-group).  
+Please contact tadahaya[at]gmail.com before publishing your paper using the contents of this repository. 
+
 ## 概要
 
 このリポジトリには、SemMed のデータの解析や、解析時に用いたコードをまとめています。
@@ -124,3 +128,15 @@ SECTION_HEADER と NORMALIZED_SECTION_HEADER は欠損値だったので不使�
 
 * [SemMedDB についてのサイト](https://lhncbc.nlm.nih.gov/ii/tools/SemRep_SemMedDB_SKR/SemMedDB_download.html)
 * [SemMedDB についての論文](https://lhncbc.nlm.nih.gov/ii/tools/SemRep_SemMedDB_SKR/SemMed.html)
+
+## Authors
+- [Mei Yoshikawa](https://github.com/KaijuAtUT)  
+    - main contributor  
+- [Tadahaya Mizuno](https://github.com/tadahayamiz)  
+    - correspondence  
+
+## Contact
+If you have any questions or comments, please feel free to create an issue on github here, or email us:  
+- yoshikawa-mei2525[at]g.ecc.u-tokyo.ac.jp
+- tadahaya[at]gmail.com  
+    - lead contact  
